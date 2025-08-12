@@ -1,0 +1,29 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "description": "Created a new project: Website Redesign",
+      "timestamp": "2023-10-01T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "description": "Completed task: Write project proposal",
+      "timestamp": "2023-10-02T14:15:00Z"
+    },
+    {
+      "id": 3,
+      "description": "Updated project status: Mobile App Development to In Progress",
+      "timestamp": "2023-10-03T09:00:00Z"
+    },
+    {
+      "id": 4,
+      "description": "Received payment for project: E-commerce Site",
+      "timestamp": "2023-10-04T16:45:00Z"
+    },
+    {
+      "id": 5,
+      "description": "Added new client: John Doe",
+      "timestamp": "2023-10-05T11:20:00Z"
+    }
+  ]
+}

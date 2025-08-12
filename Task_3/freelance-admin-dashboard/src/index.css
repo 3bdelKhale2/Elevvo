@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+body {
+    @apply bg-gray-100 text-gray-800;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    @apply font-semibold;
+}
+
+a {
+    @apply text-blue-600 hover:text-blue-500;
+}
+
+.card {
+    @apply bg-white shadow-md rounded-lg p-4;
+}
+
+.table {
+    @apply min-w-full bg-white;
+}
+
+.table th, .table td {
+    @apply border px-4 py-2;
+}
+
+.header {
+    @apply bg-white shadow;
+}
+
+.sidebar {
+    @apply bg-gray-800 text-white;
+}
+
+.notification-dropdown {
+    @apply absolute right-0 mt-2 w-48 bg-white rounded-md shadow-lg z-10;
+}
+
+.stat-card {
+    @apply flex flex-col items-center justify-center p-4 rounded-lg shadow-md;
+}
